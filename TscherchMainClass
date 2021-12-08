@@ -2,7 +2,7 @@
 // CPT 167
 // This Program is a way to calculate total cost of a customer. This program also takes into effect discounts/taxes and thanks the customer for shopping with us.
 // 12/2/21
-package edu.cpt167.tscherch.exercise7;
+package edu.cpt167.tscherch.exercise6;
 import java.util.Scanner;
 public class TscherchMainClass 
 {
